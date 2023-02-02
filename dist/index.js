@@ -36,4 +36,14 @@ const size = Size.Small;
 console.log(size);
 const state = 3;
 console.log(state);
+const objet = {
+    id: 1,
+    name: 'Boca Juniors',
+    size: Size.Large,
+    address: {
+        street: "Las Achiras",
+        number: 2232,
+        country: "Mexico"
+    }
+};
 //# sourceMappingURL=index.js.map
